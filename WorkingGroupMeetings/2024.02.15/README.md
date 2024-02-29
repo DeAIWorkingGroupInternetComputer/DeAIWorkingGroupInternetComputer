@@ -1,0 +1,55 @@
+# 2024.02.15 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
+
+## Short Version
+The Decentralized AI Technical Working Group for the Internet Computer's call focused on two main areas: establishing benchmarks for AI on the IC and presenting a Vector DB implementation by the ELNA team.
+
+### Benchmarking and AI Deployment on the IC:
+The session opened with introductions to foster community connections, followed by discussions on deploying TensorFlow models using Azle and TensorFlow JS, highlighting the IC's potential for decentralized AI services.
+Icpp detailed the memory requirements for large language models (LLMs), emphasizing the need for accurate benchmarking to understand computational demands and optimization strategies, including half-precision computation to reduce resource requirements.
+Technical challenges of AI deployment were discussed, focusing on memory limitations and the search for decentralized alternatives to centralized cloud services.
+The group explored technical solutions to these challenges, such as the potential shift to WASM 64 support for improved efficiency and the importance of collaborative tool development for model deployment.
+
+### Vector DB Implementation and Future Directions:
+The ELNA team introduced Vector DB, emphasizing its role in managing high-dimensional vectors for AI models and facilitating fast, accurate similarity searches essential for tasks like semantic search.
+A technical overview explained Vector DB's operation, including the use of the HNSW algorithm for efficient indexing and cosine similarity for measuring vector closeness.
+Future enhancements for Vector DB were discussed, including supporting various similarity measures and integrating more efficient vector embedding models to improve search capabilities.
+Challenges of deploying AI models on the IC due to computational constraints were acknowledged, with strategies discussed for optimizing deployments through smaller models or task segmentation.
+The session concluded with a focus on collaborative opportunities, the development of educational resources, and the potential for community-driven efforts to advance decentralized AI on the IC.
+
+
+## Long Version
+The first part of today's call by the Decentralized AI Technical Working Group for the Internet Computer was focused around data collection to establish benchmarks and statistics around running AI on the IC:
+
+Opening Remarks and Introductions: The session commenced with a moment for new attendees to introduce themselves. This segment aimed to build community bonds and provide a platform for participants to share their backgrounds, interests in decentralized AI, and the projects they are currently working on. Carlos shared his journey of deploying a TensorFlow model onto a canister using Azle and TensorFlow JS, highlighting the potential of the Internet Computer to support decentralized AI services akin to those offered by major cloud providers.
+
+Benchmarking and Model Performance: icpp provided a detailed account of the memory requirements for different sizes of large language models (LLMs) and discussed the impact of user interactions on computational resources. He emphasized the need for precise benchmarking to understand the instruction count, computational demands, and strategies for optimization, such as leveraging half-precision computation to reduce the model's memory footprint and computational needs.
+
+Technical Challenges in AI Deployment: The conversation transitioned to a technical discussion on the hurdles of deploying AI models on the Internet Computer. This included a deep dive into memory limitations, the centralization of cloud service providers, and the exploration of decentralized alternatives.
+
+Strategies for Overcoming Technical Barriers: The group discussed various technical solutions to address the challenges of AI deployment, including the potential shift to WASM 64 support and its implications for memory and computational efficiency. The importance of developing and sharing tools and methods for efficient model deployment was underscored, with participants expressing interest in collaborative efforts to enhance the platform's capabilities.
+
+Future Directions and Collaborative Opportunities: The discussion concluded with an emphasis on the value of community efforts to share data, benchmarks, and experiences deploying AI on the Internet Computer. The participants expressed a collective interest in overcoming the technical challenges highlighted during the call and identified collaborative opportunities to advance the state of decentralized AI technologies on the platform.
+
+In the second part, tensor from the ELNA team presented their vector database implementation:
+
+Introduction to Vector DB: The session began with an explanation of what Vector DB is—a database designed to store, manage, and index high-dimensional vectors. These vectors represent complex objects like words, images, or videos and are generated by AI models. The primary goal of Vector DB is to facilitate fast and accurate similarity searches within these vectors.
+
+Functionality and Use Cases: Vector DB's ability to perform approximate nearest neighbor searches was highlighted as a critical feature. Unlike traditional databases that perform exact match searches, Vector DB uses algorithms to find the closest matches based on vector similarity. This functionality is vital for tasks like semantic search, where the goal is to find items similar in meaning rather than identical in content.
+
+Technical Deep Dive: The session provided a technical overview of how Vector DB operates, including data indexing, storage, and retrieval processes. The Hierarchical Navigable Small Worlds (HNSW) algorithm was discussed as a method for indexing vectors to enable efficient similarity searches. The importance of vector embeddings and the use of cosine similarity for measuring the closeness of vectors were also covered.
+
+Challenges and Solutions: The group discussed the challenges of deploying AI models, particularly large language models, on the Internet Computer due to memory and computational constraints. Strategies for optimizing model deployments, such as using smaller, more efficient models or breaking down tasks into smaller chunks to fit the platform's limitations, were explored.
+
+Future Directions: The conversation touched upon future enhancements for Vector DB, including support for different similarity measures and the integration of more efficient vector embedding models to improve search accuracy and speed. The potential for using Vector DB in various applications, from semantic searches to personalized content recommendations, was discussed, highlighting the versatility and importance of this tool in decentralized AI ecosystems. The group plans to support various distance calculation methods for different applications, including cosine similarity, Euclidean distance, and dot product. These methods are crucial for determining the similarity between vectors, which can vary based on the application.
+Benchmarking and test cases are being developed to evaluate Vector DB's capacity to handle vectors and its performance in terms of speed and efficiency
+
+Demonstrations and Implementations: A live demo of Vector DB was presented, showcasing the creation of collections, insertion of vectors, indexing using the Hierarchical Navigable Small World (HNSW) algorithm, and querying for similar vectors. This demo illustrated Vector DB's practical application and operational functionality on the Internet Computer. The discussion highlighted the current limitations regarding embedding models on the IC, particularly the challenges posed by memory and computational constraints. There's an ongoing effort to find or develop lighter embedding models that can be hosted directly on the IC to facilitate on-chain AI processes.
+
+Embedding Models and Toolchains: The conversation shifted towards the feasibility of embedding models on the IC, with a focus on TensorFlow.js as a potential tool for creating embeddings in the browser and then interacting with the back-end canister. This approach circumvents the need to host large language models directly on the IC. There was an acknowledgment of the need for more compact and efficient models that can operate within the IC's current limitations. The possibility of using smaller, more efficient models or breaking down tasks into smaller chunks was considered as a strategy to fit within the platform's constraints.
+
+Collaborative Efforts: Participants expressed a keen interest in collaborating on developing tools and methods to enhance Vector DB's capabilities, emphasizing the community's role in advancing decentralized AI technology on the Internet Computer. There was a consensus on the need for shared benchmarks, data, and experiences to overcome technical challenges and leverage the platform's full potential.
+
+Educational Resources: The group expressed interest in developing and sharing educational resources on Vector DB and AI on the IC, including tutorials, example projects, and benchmarks. These resources aim to lower the entry barrier for developers interested in decentralized AI and foster a collaborative environment for shared learning and development. A proposal was made to conduct a Twitter Space or a dedicated session to discuss the state of decentralized AI on the IC, covering topics such as available languages, toolchains, and successful DeAI projects. This initiative aims to increase outreach, provide education, and showcase the advancements and possibilities of AI on the IC.
+
+Open Questions and Future Discussions: There was curiosity about the feature completeness of Vector DB compared to off-chain vector databases and commercial offerings. The group discussed the importance of benchmarking, reporting limits, and sharing experiences to inform the development of AI capabilities on the IC. Toolchains and languages used in developing AI applications on the IC were of interest, with an emphasis on understanding the different tools available and how they can be applied to build effective AI-driven applications on the platform.
+

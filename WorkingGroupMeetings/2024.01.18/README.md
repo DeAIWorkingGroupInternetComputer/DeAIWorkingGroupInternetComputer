@@ -1,0 +1,16 @@
+# 2024.01.18 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
+
+- **Meeting Structure and Topics**: The group will aim for a structured approach for future meetings, focusing on specific topics each week, starting from basic to more advanced discussions. This structure aims to build a comprehensive knowledge base over time.
+- **Summarizing Meetings**: Meeting summaries will be created for community contribution and to aid newcomers. This approach is to document discussions for future reference.
+- **Utilizing DFINITY Wiki and Other Platforms**: While considering the DFINITY Wiki for formal documents, the group acknowledged the need for a more dynamic workspace. Discussion on various platforms for content development and hosting took place.
+- **Twitter Spaces for Outreach and Education**: The group plans to leverage Twitter spaces for broader outreach and education. Regular Twitter space sessions are to be held for topic discussions, resource sharing, and audience engagement.
+- **Simplifying Technical Jargon**: Emphasis was placed on making complex AI and blockchain concepts accessible to the public. Using analogies, infographics, and videos to simplify terminology was suggested.
+- **Content Creation for Educational Platforms**: There was a proposal to write introductory articles on AI and machine learning on the ICP, to serve as starting points for new developers. These articles would be published across various platforms.
+- **GPU Integration in Infrastructure**: The group discussed different models for GPU integration in ICP infrastructure. This included full integration into the consensus algorithm and using GPUs for query processing. The potential for off-chain GPU compute services was also explored.
+- **64-bit WebAssembly (WASM) Discussion**: The discussion touched upon the benefits and implications of moving to 64-bit WASM, specifically regarding heap memory and algorithmic limits.
+- **Economic Incentives for GPU Hardware**: The idea of charging for queries and providing economic incentives for investing in GPU hardware was discussed. This is linked with the faster processing capabilities of GPUs.
+- **Potential NNS Proposal for Query Charging**: The group considered submitting a proposal to the Network Nervous System (NNS) regarding query charging, but decided to wait for further information from the DFINITY team.
+- **Feedback Mechanism and Tech Stack Insights**: The group showed interest in understanding different projects' tech stacks and the kind of workloads they intend to run, especially concerning training versus inference.
+- **CUDA Dependencies and Framework Abstraction**: A technical discussion around CUDA dependencies and the abstraction provided by frameworks like PyTorch 2.0 and TensorFlow was brought up. The focus was on the ability of these frameworks to run computations on different hardware, like AMD, beyond the standard CUDA library.
+
+Overall, the meeting emphasized structuring future discussions for comprehensive knowledge-building, exploring GPU integration in various models, simplifying AI and blockchain concepts for a broader audience, and probing into the potential of 64-bit WASM and its implications. The group also stressed the importance of creating educational content and exploring economic models for GPU investment.

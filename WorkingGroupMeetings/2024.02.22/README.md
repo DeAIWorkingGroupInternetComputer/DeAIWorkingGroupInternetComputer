@@ -1,0 +1,20 @@
+# 2024.02.22 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
+
+A new participant introduced themselves as a newcomer to the ICP ecosystem, expressing curiosity about ICP's developments in AI. The group's purpose was clarified as facilitating exchanges between projects working on decentralized AI on the ICP and as a resource for anyone interested in the topic. The discussion included the establishment of a repository to share resources, projects, and facilitate collaboration within the ecosystem (see the DeAI GitHub repo: https://github.com/DeAIWorkingGroupInternetComputer/DeAIWorkingGroupInternetComputer).
+
+The conversation then shifted to the potential applications and advantages of decentralized AI on the ICP (also see https://dscvr.one/post/1153371204873059295/unique-advantages-of-decentralized-aithese-are-the-results-of-ic), including privacy concerns (also see this link on consent receipts as mentioned around privacy regulations: https://www.ubisecure.com/data-protection/what-is-consent-receipt/), the ability to run AI components like language models on-chain, and the interest in community or co-ownership models. The importance of keeping training data confidential and the potential for zero-knowledge machine learning AI was also highlighted.
+
+The group discussed the concept of AI-powered DAOs, the potential for AI to manage financial transactions and assets, and the integration of Bitcoin and Ethereum networks with the ICP for enhanced financial services. The idea of AI participating in decision-making processes, especially in crucial areas like finance and public good decisions, was explored. The call also touched on the importance of transparency and hack resistance in decentralized AI systems.
+
+The conversation also included technical details about the ICP's upcoming features, such as end-to-end encryption for data privacy (https://internetcomputer.org/blog/features/vetkey-primer) and the development of AI models to detect DAO vote anomalies and secure online transactions. 
+
+The participants discussed the limitations and potential of AI models on the Internet Computer (IC), including the challenges posed by instruction limits and the efficiency of using different programming languages for AI development on the IC. There was an acknowledgment of the need for slimmed-down models to work within the IC's current limitations, with a specific mention of the performance and usability constraints when working with GPT-2 models due to instruction limits.
+
+A significant part of the discussion revolved around two main project ideas related to blockchain security and how these could be integrated into the upcoming hackathon. The first project idea involved creating public voting records on DAOs (Decentralized Autonomous Organizations) to facilitate analytics and possibly prevent malicious activities. The second idea focused on developing an AI model to detect blockchain hacks early by analyzing on-chain data and flagging suspicious activities.
+
+The participants also considered the practical aspects of implementing these ideas, such as data generation and preparation of materials for the hackathon. There was a consensus on the importance of making these projects accessible to hackathon participants, possibly through a dedicated repository or as part of the hackathon's challenge descriptions.
+
+Additionally, the conversation touched on the potential for collaboration with the Scalability and Performance working group to discuss scalable architectures for decentralized AI applications. This collaboration could lead to a joint session focusing on the technical feasibility and efficiency of deploying AI models on the IC, comparing different programming languages and frameworks.
+
+The call also highlighted the value of visual and interactive presentations, such as demos and walkthroughs, to make complex technical topics more accessible and engaging for a wider audience. There was an interest in recording and sharing these presentations to build a knowledge base that could support the broader community of developers interested in decentralized AI on the IC.
+
