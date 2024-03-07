@@ -1,5 +1,15 @@
 # 2024.03.07 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
 
+## Short Version
+
+[Massimo](https://forum.dfinity.org/u/massimoalbarello/summary) showcased the project he and [Luca](https://forum.dfinity.org/u/ilbert/summary) have been working on aimed at [enabling DAOs to manage off-chain web3 services](https://github.com/omnia-network/ic_akash) through an orchestrator canister on the ICP, focusing on decentralizing control and ensuring transparency by potentially governing it through a DAO. The project, still in early stages, looks to facilitate deployment on networks like Akash.
+
+The discussion extended to integrating AI infrastructure on the ICP, highlighting the technical challenges of creating GPU subnets and decentralizing AI service management to enhance the platform's capabilities. Key topics included the complexity of managing resources across different networks, the engineering hurdles in GPU design for AI, the significance of a DAO gateway as a bridge to external compute resources, and the importance of confidential computing for off-chain AI models.
+
+Future directions involve exploring GPU-enabled VMs secured by confidential computing, ensuring payments in ICP, and fostering a community-driven approach to development. A forthcoming joint meeting with the Scalability Group aims to delve into scalability issues, indicating an interest in collaborative efforts to address the challenges of decentralized AI and performance on the ICP.
+
+## Long Version
+
 [Massimo](https://forum.dfinity.org/u/massimoalbarello/summary) introduced the project he and [Luca](https://forum.dfinity.org/u/ilbert/summary) have been working on focused on [off-chain infrastructure integration with the ICP](https://github.com/omnia-network/ic_akash), highlighting the challenge decentralized autonomous organizations (DAOs) face in controlling off-chain services essential for web3 functionalities. He detailed the concept of an orchestrator canister that would allow DAOs to deploy and manage off-chain services on networks like Akash through ICP, aiming to decentralize control over such services further. The project, still in early development, intends to eventually be governed by a DAO to ensure transparency and trust in its operations.
 
 The conversation also touched upon the technicalities and potential of integrating AI infrastructure on the ICP, discussing the creation of GPU subnets and the technical challenges involved. They explored the idea of decentralizing the deployment and management of off-chain AI services, thereby enhancing the capabilities of the ICP in the AI domain while maintaining decentralization principles.
