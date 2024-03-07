@@ -13,29 +13,33 @@ The Internet Computer has a thriving DeAI ecosystem with multiple programming la
 ### Azle (TypeScript)
 - [Azle Repository](https://github.com/demergent-labs/azle)
 - Examples:
-  - [DecentAI](https://github.com/carlosarturoceron/decentAI)
+  - [Azle Book General Code Examples](https://demergent-labs.github.io/azle/rest_based_examples.html)
+  - [tensorflow.js](https://github.com/carlosarturoceron/decentAI)
 
 ### icpp (C++)
 - [icpp Repository](https://github.com/icppWorld/icpp-pro)
 - Examples:
+  - [icpp-pro Getting Started](https://docs.icpp.world/getting-started.html)
   - [icpp_llm](https://github.com/icppWorld/icpp_llm)
   - [icgpt](https://github.com/icppWorld/icgpt)
 
 ### Kybra (Python)
 - [Kybra Repository](https://github.com/demergent-labs/kybra)
 - Examples:
-  - _Links coming soon_
+  - [Kybra Book General Code Examples](https://demergent-labs.github.io/kybra/examples.html)
 
 ### Motoko (IC-specific language)
 - [Motoko Repository](https://github.com/dfinity/motoko)
 - Examples:
-  - [motokolearn](https://github.com/ildefons/motokolearn)
-  - [DecentralizedAIonIC](https://github.com/patnorris/DecentralizedAIonIC)
+  - [DFINITY General Code Examples](https://github.com/dfinity/examples/tree/master/motoko)
+  - [MotokoLearn](https://github.com/ildefons/motokolearn)
+  - [In-Browser AI Chat](https://github.com/patnorris/DecentralizedAIonIC)
 
 ### Rust
 - [Rust CDK Repository](https://github.com/dfinity/cdk-rs)
 - Examples:
+  - [DFINITY General Code Examples](https://github.com/dfinity/cdk-rs/tree/main/examples)
   - [tract-ic-ai](https://github.com/jeshli/tract-ic-ai)
   - [ic-mnist](https://github.com/smallstepman/ic-mnist)
-  - [arcmindai](https://github.com/arcmindai/arcmindai)
+  - [ArcMindAI](https://github.com/arcmindai/arcmindai)
   - [rust-connect-py-ai-to-ic](https://github.com/jeshli/rust-connect-py-ai-to-ic)
