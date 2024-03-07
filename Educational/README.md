@@ -1,5 +1,8 @@
 # Educational Materials for DeAI on the Internet Computer (ICP)
 
+## Tutorials
+- [Deploy your first on-chain LLM: icpp-llama2](https://github.com/icppWorld/icpp_llm/blob/main/icpp_llama2/README.md)
+
 ## By Language
 ### Azle (TypeScript)
 - [Azle Repository](https://github.com/demergent-labs/azle)
@@ -12,6 +15,7 @@
 - Examples:
   - [icpp-pro Getting Started](https://docs.icpp.world/getting-started.html)
   - [icpp_llm](https://github.com/icppWorld/icpp_llm)
+  - [icpp-llama2 Deployment Tutorial](https://github.com/icppWorld/icpp_llm/blob/main/icpp_llama2/README.md)
   - [icgpt](https://github.com/icppWorld/icgpt)
 
 ### Kybra (Python)

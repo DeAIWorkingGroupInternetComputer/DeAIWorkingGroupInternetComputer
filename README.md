@@ -10,6 +10,9 @@ We're thrilled to have you join the DeAI on IC community and can't wait to see w
 
 The Internet Computer has a thriving DeAI ecosystem with multiple programming languages, toolkits, and examples available, so choose your weapon and adventure and let's get started:
 
+### Tutorials
+- [Deploy your first on-chain LLM: icpp-llama2](https://github.com/icppWorld/icpp_llm/blob/main/icpp_llama2/README.md)
+
 ### Azle (TypeScript)
 - [Azle Repository](https://github.com/demergent-labs/azle)
 - Examples:
@@ -21,6 +24,7 @@ The Internet Computer has a thriving DeAI ecosystem with multiple programming la
 - Examples:
   - [icpp-pro Getting Started](https://docs.icpp.world/getting-started.html)
   - [icpp_llm](https://github.com/icppWorld/icpp_llm)
+  - [icpp-llama2 Deployment Tutorial](https://github.com/icppWorld/icpp_llm/blob/main/icpp_llama2/README.md)
   - [icgpt](https://github.com/icppWorld/icgpt)
 
 ### Kybra (Python)
