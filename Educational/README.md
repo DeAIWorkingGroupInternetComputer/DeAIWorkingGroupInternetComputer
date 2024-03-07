@@ -37,12 +37,12 @@
 
 ## Inspirations - March 2024
 - LLMs
-  - [Paper: The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764v1)
+  - Paper: [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764v1)
 - zkAI / oppAI
-  - [Video: On-chain AI, Web3 Search Engines & Decentralization | Kinic’s founder Wyatt Benno](https://www.youtube.com/watch?v=rvtUKRq6Yv0)
-  - [Paper: opp/ai: Optimistic Privacy-Preserving AI on Blockchain](https://arxiv.org/abs/2402.15006)
+  - Video: [On-chain AI, Web3 Search Engines & Decentralization | Kinic’s founder Wyatt Benno](https://www.youtube.com/watch?v=rvtUKRq6Yv0)
+  - Paper: [opp/ai: Optimistic Privacy-Preserving AI on Blockchain](https://arxiv.org/abs/2402.15006)
 - [Decentralized AI Advantages](https://dscvr.one/post/1153371204873059295/unique-advantages-of-decentralized-aithese-are-the-results-of-ic)
 - AI Blockchain Security
-  - [Contact @Jeshli on Discord and DFINITY Forum](https://discord.com/channels/748416164832608337/1184160869614108873/1211065467372838973)
+  - Contact [@Jeshli on Discord and DFINITY Forum](https://discord.com/channels/748416164832608337/1184160869614108873/1211065467372838973)
   - For the AI/ML challenge, we are calling for innovators to craft and refine models adept at spotting and categorizing malevolent proposals in DAO voting records. This initiative is a cornerstone of our broader mission to bolster the security of DAO treasuries through the incorporation of AI canisters into their voting mechanisms, thereby marrying the unalterable transparency of blockchain with the discerning sharpness of AI. The challenge is built around a bespoke dataset, meticulously compiled by examining votes on snapshot.org for evidence of treasury misappropriation, coercive demands similar to those seen in the Mango Hacker event, and other infractions against treasury charters.
   - Participants will find the dataset, an illustrative example, a video tutorial, and a discourse on the existing trade-offs between speed, cost, and computational requirements on the Internet Computer at https://github.com/modclub-app/ai-guardian/. This endeavor promises to significantly influence DAO operations within both the Internet Computer Protocol (ICP) framework and Ethereum Virtual Machine (EVM) blockchains. Moreover, it will pave the way for the adoption of secure, immutable, and transparent AI applications across a wide range of DeFi sectors and other sectors that store data on the blockchain in the future.
