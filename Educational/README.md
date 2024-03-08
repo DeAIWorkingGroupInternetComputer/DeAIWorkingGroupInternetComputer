@@ -38,6 +38,9 @@
   - [ic-mnist](https://github.com/smallstepman/ic-mnist)
   - [ArcMindAI](https://github.com/arcmindai/arcmindai)
   - [rust-connect-py-ai-to-ic](https://github.com/jeshli/rust-connect-py-ai-to-ic)
+  - [Juno integrating OpenAI](https://github.com/peterpeterparker/juno-openai/tree/main)
+  - [UncensoredGreats](https://github.com/UncensoredGreats/core)
+  - [ELNA VectorDB](https://github.com/elna-ai/elna-vector-db)
 
 ## Inspirations - March 2024
 - LLMs
