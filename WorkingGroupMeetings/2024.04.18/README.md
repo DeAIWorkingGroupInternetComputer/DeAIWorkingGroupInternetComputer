@@ -1,0 +1,27 @@
+# 2024.04.18 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
+
+## Short Version
+
+In today's DeAI Working Group meeting for the Internet Computer, the discussions primarily revolved around optimizing WebAssembly and AI deployment on the platform. Ulan shared insights on using the [Tract framework](https://forum.dfinity.org/t/technical-working-group-deai/24621/101) and the community project [wasi-to-ic](https://forum.dfinity.org/t/introducing-wasi-for-ic/18583?page=3), as detailed on the forum, to adapt code for Internet Computer's environment. The group delved into technical strategies for overcoming challenges with non-deterministic behaviors in floating-point operations and explored enhancements through SIMD instructions for better performance, potentially achieving up to a tenfold improvement.
+
+A significant part of the conversation addressed the need for higher instruction limits in query operations to efficiently run large language models (LLMs) and discussed architectural approaches for scaling AI deployments via [multiple canisters managed by a control canister](https://forum.dfinity.org/t/technical-working-group-scalability-performance/14265/90?u=icpp). This architecture was part of a [hackathon project](https://github.com/onicai/onicaiGoes2024OxfordBH).
+
+The session highlighted ongoing efforts to refine benchmarks and encouraged further discussion on leveraging new optimizations to boost the performance and scalability of AI models on the platform. The participants expressed interest in continuing to explore these areas, particularly in how they could enhance the deployment and usability of LLMs in different scenarios, including on devices through browsers, which presents unique challenges such as initial download times and computational limits based on device capabilities.
+
+## Long Version
+
+In today's meeting of the DeAI Working Group for the Internet Computer, the discussion began with Ulan talking about his [recent work with the Tract framework on the IC](https://forum.dfinity.org/t/technical-working-group-deai/24621/101). He referenced a recent demo by Dominic Williams on image classification and highlighted his own previous presentations on global R&D efforts, though it was uncertain if these were public. He described utilizing an open-source inference engine for the demo and mentioned the community project [wasi-to-ic](https://forum.dfinity.org/t/introducing-wasi-for-ic/18583?page=3), which facilitates using the standard WebAssembly system interface to adapt code for the Internet Computer environment.
+
+Significant focus was placed on the technical aspects of integrating and optimizing WebAssembly for the Internet Computer, including addressing non-deterministic behaviors in floating-point operations to ensure consensus on the blockchain. The discussion ventured into specific optimizations in the WebAssembly runtime, promising significant performance improvements (up to 10x for floating-point operations), and explored future support for SIMD instructions to enhance processing efficiency.
+
+The session also covered the community's efforts to adapt the WebAssembly environment for the Internet Computer, discussing the challenges and potential of supporting newer versions of the Wasi standard, which is pivotal for running WebAssembly outside the browser environment. The discourse concluded with details on current benchmarks and potential collaboration opportunities to standardize and improve benchmarking approaches for diverse workloads on the Internet Computer.
+
+The discussion continued to focus on technical aspects of AI deployment, particularly around the optimization of query calls and update operations for AI model canisters. The participants talked about the challenges of instruction limits in query operations and how these might be addressed to improve performance, especially for large language models (LLMs).
+
+A significant part of the discussion involved exploring potential changes to query operations that could allow for higher instruction limits, such as implementing query charging. This could potentially accelerate query response times and support more complex operations without the need for update calls, which currently circumvent instruction limit constraints but involve state changes.
+
+There was also a mention of a [hackathon project related to deploying AI models](https://github.com/onicai/onicaiGoes2024OxfordBH), where the architecture was set up to allow [scaling through multiple canisters managed by a control canister](https://forum.dfinity.org/t/technical-working-group-scalability-performance/14265/90?u=icpp). This setup helps in distributing load and managing state more efficiently across different LLM canisters.
+
+Towards the end, the conversation shifted to discussing the practical aspects of deploying and using LLMs in different scenarios, including on devices through browsers, which presents unique challenges such as initial download times and computational limits based on device capabilities.
+
+The participants expressed interest in continuing to explore these areas, particularly in how they could leverage new optimizations and architectural strategies to enhance the performance and scalability of AI models on the Internet Computer platform. They concluded by encouraging ongoing discussion on these topics in their community channels.
