@@ -43,10 +43,9 @@ The Internet Computer has a thriving DeAI ecosystem with multiple programming la
 - [Rust CDK Repository](https://github.com/dfinity/cdk-rs)
 - Examples:
   - [DFINITY General Code Examples](https://github.com/dfinity/cdk-rs/tree/main/examples)
-  - [tract-ic-ai](https://github.com/jeshli/tract-ic-ai)
   - [ic-mnist](https://github.com/smallstepman/ic-mnist)
   - [ArcMindAI](https://github.com/arcmindai/arcmindai)
-  - [rust-connect-py-ai-to-ic](https://github.com/jeshli/rust-connect-py-ai-to-ic)
+  - [rust-connect-py-ai-to-ic](https://github.com/modclub-app/rust-connect-py-ai-to-ic)
   - [Juno integrating OpenAI](https://github.com/peterpeterparker/juno-openai/tree/main)
   - [UncensoredGreats](https://github.com/UncensoredGreats/core)
   - [ELNA VectorDB](https://github.com/elna-ai/elna-vector-db)
