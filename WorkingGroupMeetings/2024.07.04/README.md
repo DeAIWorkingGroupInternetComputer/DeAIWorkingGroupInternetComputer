@@ -3,6 +3,18 @@
 ## Short Version
 In discussing the implementation of larger language models on the Internet Computer (IC), progress was highlighted in creating canisters for tensor computations despite memory constraints. Key discussions included the slow manual reimplementation of models for IC and the suggestion to use tools like PyTorch and TinyGrad for efficiency. Challenges with stable memory due to bugs and inefficiency were addressed, with proposed direct memory management improvements. The benefits of using frameworks like PyTorch and ONNX were emphasized, along with the potential of the Rust library Candle. Horizontal scaling, federated learning, and the IC's decentralized data ownership were explored as future directions. Action items include experimenting with tools like TinyGrad and federated learning, improving stable memory handling, and fostering developer collaboration.
 
+### Links shared during the call:
+* https://docs.google.com/forms/d/e/1FAIpQLSeZU-6BkFXoNPB9i1P3g8Wl6hjIA_wrkFOaBpu4yzKgRjMumA/viewform
+* https://github.com/gip/yllama.rs
+* https://github.com/gip/yllama.oc
+* https://www.youtube.com/watch?v=13pnH_8cBUM&list=WL&index=102
+* https://woglz-oqaaa-aaaal-act2q-cai.icp0.io/
+* https://github.com/jeshli/rust-connect-py-ai-to-ic
+* https://github.com/jeshli/tract-ic-ai
+* https://github.com/tinygrad/tinygrad
+* https://github.com/huggingface/candle
+* https://0g.ai/
+
 ## Long Version
 
 ### Background and Progress
