@@ -38,4 +38,4 @@ See our section on [Awesome ICP](https://github.com/dfinity/awesome-internet-com
   - [UncensoredGreats](https://github.com/UncensoredGreats/core)
   - [ELNA VectorDB](https://github.com/elna-ai/elna-vector-db)
   - [Kinic VectorDB](https://github.com/ClankPan/ic-vectune)
-  - [Llama3] (https://github.com/gip/yllama.oc)
+  - [Llama3](https://github.com/gip/yllama.oc)
