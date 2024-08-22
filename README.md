@@ -9,3 +9,5 @@ We're thrilled to have you join the DeAI on IC community and can't wait to see w
 - DFINITY Forum Thread for the Group: [General Discussions](https://forum.dfinity.org/t/technical-working-group-deai/24621)
 
 The Internet Computer has a thriving DeAI ecosystem with multiple programming languages, toolkits, and examples available, so choose your weapon and adventure and let's get started!
+
+For ICP DeAI projects, see the folder in this repo and the DeAI section on [Awesome ICP](https://github.com/dfinity/awesome-internet-computer?tab=readme-ov-file#ai).
