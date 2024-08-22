@@ -13,7 +13,7 @@ See our section on [Awesome ICP](https://github.com/dfinity/awesome-internet-com
 - [icpp Repository](https://github.com/icppWorld/icpp-pro)
 - Examples:
   - [icpp_llm](https://github.com/icppWorld/icpp_llm)
-  - [icpp-llama2 Deployment Tutorial](https://github.com/icppWorld/icpp_llm/blob/main/icpp_llama2/README.md)
+  - [icpp-llama2 Deployment Tutorial](https://github.com/icppWorld/icpp_llm/tree/main/llama2_c)
   - [icgpt](https://github.com/icppWorld/icgpt)
 
 ### Kybra (Python)
@@ -30,10 +30,11 @@ See our section on [Awesome ICP](https://github.com/dfinity/awesome-internet-com
 ### Rust
 - [Rust CDK Repository](https://github.com/dfinity/cdk-rs)
 - Examples:
-  - [tract-ic-ai](https://github.com/jeshli/tract-ic-ai)
+  - [tract-ic-ai](https://github.com/modclub-app/tract-ic-ai)
   - [ic-mnist](https://github.com/smallstepman/ic-mnist)
   - [ArcMindAI](https://github.com/arcmindai/arcmindai)
-  - [rust-connect-py-ai-to-ic](https://github.com/jeshli/rust-connect-py-ai-to-ic)
+  - [rust-connect-py-ai-to-ic](https://github.com/modclub-app/rust-connect-py-ai-to-ic)
   - [Juno integrating OpenAI](https://github.com/peterpeterparker/juno-openai/tree/main)
   - [UncensoredGreats](https://github.com/UncensoredGreats/core)
   - [ELNA VectorDB](https://github.com/elna-ai/elna-vector-db)
+  - [Kinic VectorDB](https://github.com/ClankPan/ic-vectune)
