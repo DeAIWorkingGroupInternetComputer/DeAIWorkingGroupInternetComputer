@@ -1,6 +1,6 @@
 # DeAI Projects on the Internet Computer (ICP)
 
-Also see the DeAI section on [Awesome ICP](https://github.com/dfinity/awesome-internet-computer?tab=readme-ov-file#ai)
+Also see the DeAI section on [Awesome ICP](https://github.com/dfinity/awesome-internet-computer?tab=readme-ov-file#decentralized-ai)
 
 ## Examples by programming language:
 
