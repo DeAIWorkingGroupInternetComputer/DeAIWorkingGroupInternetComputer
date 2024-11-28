@@ -1,4 +1,4 @@
-# 2024.11.07 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
+# 2024.11.21 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
 
 ## Short Version
 The DeAI Working Group for the Internet Computer provided insights from the Crypto:AI Conference (Lisbon) and AI x Web3 Summit (Palo Alto) and requested signatures for the Manifesto for DeAI.
