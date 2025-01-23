@@ -1,4 +1,4 @@
-# 2024.01.23 Meeting Summary - AI & FAI3Network Working Group
+# 2025.01.23 Meeting Summary - AI & FAI3Network Working Group
 
 ## Short Version
 
