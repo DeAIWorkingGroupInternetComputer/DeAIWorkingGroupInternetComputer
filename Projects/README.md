@@ -30,7 +30,6 @@ Also see the DeAI section on [Awesome ICP](https://github.com/dfinity/awesome-in
 ### Rust
 - [Rust CDK Repository](https://github.com/dfinity/cdk-rs)
 - Examples:
-  - [tract-ic-ai](https://github.com/modclub-app/tract-ic-ai)
   - [ic-mnist](https://github.com/smallstepman/ic-mnist)
   - [ArcMindAI](https://github.com/arcmindai/arcmindai)
   - [rust-connect-py-ai-to-ic](https://github.com/modclub-app/rust-connect-py-ai-to-ic)
@@ -39,3 +38,4 @@ Also see the DeAI section on [Awesome ICP](https://github.com/dfinity/awesome-in
   - [ELNA VectorDB](https://github.com/elna-ai/elna-vector-db)
   - [Kinic VectorDB](https://github.com/ClankPan/ic-vectune)
   - [Llama3](https://github.com/gip/yllama.oc)
+  - [decide-ai-ic](https://github.com/decide-ai/decide-ai-ic)
