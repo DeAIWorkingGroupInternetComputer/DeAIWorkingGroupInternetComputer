@@ -4,7 +4,7 @@
 Yan Qing from IC Panda presented the Anda AI agent framework and its integration with DeepSeek and ICP. Anda, a Rust-based framework, focuses on decentralized AI agents with secure execution using trusted execution environments (TEEs) and encrypted memory on ICP. Community efforts include upcoming developer documentation, a hackathon, and grants. Future directions involve multi-agent coordination, improved infrastructure, and expanding real-world AI agent use cases on ICP.
 
 ### Links shared during the call:
-* Anda framework presentation:
+* Anda framework presentation: https://github.com/ldclabs/anda/discussions/2
 * Chinese version: https://www.youtube.com/watch?v=J-b35nUc0lY
 * English version: https://www.youtube.com/watch?v=CXpoo8HQSaE
 * Cohere Embeddings: https://cohere.com/
