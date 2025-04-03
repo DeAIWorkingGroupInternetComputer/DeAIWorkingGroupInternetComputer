@@ -7,7 +7,9 @@ In this DeAI Working Group call, participants explored decentralized AI training
 * https://docs.qubic.org/learn/upow/
 * https://www.nvidia.com/en-us/products/workstations/dgx-spark/
 * https://arxiv.org/html/2410.08892
-* Kawa links
+* https://research.aimultiple.com/federated-learning/
+* https://www.dailydoseofds.com/federated-learning-a-critical-step-towards-privacy-preserving-machine-learning/
+* https://en.m.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 * https://research.google/blog/discovering-new-words-with-confidential-federated-analytics/
 * https://arxiv.org/pdf/2204.05698
 * https://arxiv.org/pdf/2401.10774
@@ -38,6 +40,7 @@ In this DeAI Working Group call, participants explored decentralized AI training
 ## Part 1: Federated Learning, On-Chain Training, and Verifiability of AI
 
 ### Decentralized Model Training via Federated Learning
+- Kawa shared several papers on federated learning with the group
 - Federated learning was discussed as a method to train AI models on user devices (like mobile phones), preserving privacy since raw data stays local.
 - Only anonymized model updates are shared and aggregated on-chain to build a global model.
 - This could democratize AI model creation and offer on-chain rewards (e.g., tokens) to users contributing data or compute power.
@@ -69,6 +72,7 @@ In this DeAI Working Group call, participants explored decentralized AI training
 - Explore Medusa heads (layered fine-tuning for expert models) as a lightweight alternative to full LLM retraining.
 
 ## Part 2: Exploring Future AI Paradigms – Active Inference, Reservoir Computing, and Quantum AI
+Please see Tim's prepared content in the document Active Inference, and Exploratory AI horizons
 
 ### Framing the Problem: Why Look Beyond Transformers?
 - Today’s LLMs are powerful but computationally expensive, data-hungry, and largely static once deployed.
