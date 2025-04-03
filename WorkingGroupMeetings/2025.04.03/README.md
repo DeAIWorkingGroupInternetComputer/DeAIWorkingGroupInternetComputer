@@ -143,7 +143,7 @@ In this DeAI Working Group call, participants explored decentralized AI training
 |-----------|-----------------------------------------------------|----------------|
 | Apr 10    | Model Context Protocol (MCP) – First ICP Demo       | baolongt       |
 | Apr 17    | AI4AI – Accelerated AI Infrastructure               | Icarus         |
-| Apr 24    | IConfucius – Fully On-Chain AI Agent on ICP         | Ajaan (onicai) |
+| Apr 24    | IConfucius – Fully On-Chain AI Agent on ICP         | icpp (onicai)  |
 | May (tbd) | Session on Efficient LLMs and DeepSeek              | Open           |
 | Future    | Expert session on Active Inference implementations  | Invite TBD     |
 
