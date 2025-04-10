@@ -1,7 +1,7 @@
 # 2025.04.10 Meeting Summary - DeAI Working Group for the Internet Computer (ICP)
 
 ## Short Version
-
+In this session, the group explored recent developments in open-source AI and emerging agent protocols, in particular the Model Context Protocol (MCP). The highlight was a demo by Long, showcasing the first integration of MCP with the Internet Computer (ICP), enabling AI agents to interact with blockchain tools like the NNS and perform actions such as proposal voting and wallet authentication. Discussions covered technical challenges (e.g., overlapping endpoints, authentication security, lack of full server-sent event support), the potential of self-sovereign AI agents, and next steps including developer tooling and upcoming sessions on AI infrastructure and on-chain agents.
 
 ### Links shared during the call:
 * @baolongt ICP MCP server template: https://github.com/baolongt/mcp-server-template-ic
@@ -85,7 +85,7 @@ Long presented his work integrating the MCP protocol with the Internet Computer 
 
 | Date     | Topic                                                                                                 | Presenter     |
 |----------|-------------------------------------------------------------------------------------------------------|---------------|
-| Apr 17   | AI4AI – Accelerated AI Infrastructure                                                                 | Icarus        |
+| Apr 17   | AI4AI – Accelerated AI Infrastructure for ICP                                                                | Icarus        |
 | Apr 24   | IConfucius – Fully On-Chain AI Agent on ICP                                                           | icpp (onicai) |
 | May      | ANIMA demo ([link](https://forum.dfinity.org/t/introducing-the-llm-canister-deploy-ai-agents-with-a-few-lines-of-code/41424/35?u=patnorris)) | swift         |
 | May (tbd)| Session on Efficient LLMs and DeepSeek                                                               |               |
