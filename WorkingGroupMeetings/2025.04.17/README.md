@@ -35,9 +35,9 @@ The call also explored considerations for inference software stacks, with mentio
 
 | Date     | Topic                                                                                                 | Presenter     |
 |----------|-------------------------------------------------------------------------------------------------------|---------------|
-| Apr 17   | AI4AI – Accelerated AI Infrastructure for ICP                                                                | Icarus        |
 | Apr 24   | IConfucius – Fully On-Chain AI Agent on ICP                                                           | icpp (onicai) |
-| May      | ANIMA demo ([link](https://forum.dfinity.org/t/introducing-the-llm-canister-deploy-ai-agents-with-a-few-lines-of-code/41424/35?u=patnorris)) | swift         |
+| May 1     | ANIMA demo ([link](https://forum.dfinity.org/t/introducing-the-llm-canister-deploy-ai-agents-with-a-few-lines-of-code/41424/35?u=patnorris)) | swift         |
+| May 8     | MCP & Agent2Agent Protocol |          |
 | May (tbd)| Session on Efficient LLMs and DeepSeek                                                               |               |
 | May (tbd)| Session on instruction limit                                                                          |               |
 | Future   | Expert session on Active Inference implementations                                                    | Invite TBD    |
