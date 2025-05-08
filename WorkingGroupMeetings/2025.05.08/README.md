@@ -3,6 +3,9 @@
 ## Short Version
 Wyatt gave an update on Kinic’s browser plugin which is now in open beta and then deep dived into Zero-Knowledge Machine Learning (ZKML). His presentation explored ZKML on the Internet Computer (ICP), highlighting how zk-proofs enable verifiable AI computation without exposing sensitive data. He compared ZK with Trusted Execution Environments (TEEs), outlined technical advancements like folding schemes, Jolt-based ZKVMs, and WebGPU acceleration, and showcased real-world use cases such as private LLM inference and AI agent coordination. The ICP's architecture allows for native on-chain verification of modern proof systems, positioning it as a powerful platform for decentralized, privacy-preserving AI.
 
+## Video Recording
+[Please find the recording of the call here](https://drive.google.com/file/d/1e6jMwkrEfCrVeM2L7-_H6A6NnV_fbYad/view?usp=drive_link)
+
 ### Links shared during the call:
 * https://www.kinic.io/ 
 * https://www.novanet.xyz/ 
