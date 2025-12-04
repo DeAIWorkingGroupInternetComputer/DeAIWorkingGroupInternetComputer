@@ -14,6 +14,9 @@ This session highlighted ICP’s differentiation in decentralized AI through sma
 * https://www.ibm.com/think/news/deepseeks-new-model-could-decode-documents-more-efficiently
 * https://theaieconomy.substack.com/p/ai2-olmo-3-reasoning-context-efficiency
 * https://arxiv.org/html/2504.07096v1
+* Small Language Models are the Future of Agentic AI: https://arxiv.org/html/2506.02153v2  
+* https://research.nvidia.com/labs/lpr/slm-agents/
+* https://developer.nvidia.com/blog/how-small-language-models-are-key-to-scalable-agentic-ai/ 
 
 ## Long Version
 This session explored where the Internet Computer (ICP) can differentiate in decentralized AI, converging around a few core themes: small/task-specific models, ultra-low-overhead DevOps, strong chain-fusion interoperability, and long-term trust guarantees.
